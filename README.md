@@ -3,7 +3,8 @@
 1. create virtualenv - `mkvirtualenv ../venv`
 2. install requirements - `pip install -r requirements.txt`
 3. train the model
-```  ludwig train \
+```
+ludwig train \
 --dataset bestsellers_with_categories.csv \
 --config_file config.yaml
 ```
