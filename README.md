@@ -1,4 +1,4 @@
-* Experiment for text classification with Ludwig.
+* Experiment for text classification with [Ludwig](https://eng.uber.com/introducing-ludwig/).
 Given a dataset of books with Names and Genre(category), lets train a model and predict the genre for a given book name
 
 * How to
