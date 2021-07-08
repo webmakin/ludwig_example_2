@@ -1,3 +1,5 @@
+* Experiment for text classification with Ludwig.
+Given a dataset of books with Names and Genre(category), lets train a model and predict the genre for a given book name
 
 * How to
 1. create virtualenv - `mkvirtualenv ../venv`
