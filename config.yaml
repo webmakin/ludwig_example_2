@@ -1,0 +1,11 @@
+input_features:
+    -
+        name: Name
+        type: text
+
+output_features:
+    -
+        name: Genre
+        type: category
+training:
+  epochs: 10
